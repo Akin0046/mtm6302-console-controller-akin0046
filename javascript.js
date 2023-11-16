@@ -21,3 +21,4 @@ function setTheme(themeName) {
     }
 }
 
+//Completes the assignment.
